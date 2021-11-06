@@ -1,0 +1,47 @@
+html, body {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+  }
+  
+  .main-navbar {
+    background-color: #d4245c; 
+    position: sticky;
+    top: 0;
+  }
+  
+  .brand {
+    font-family: 'Luckiest Guy', cursive;
+    white-space: nowrap;
+    font-size: min(max(2em, 6vw), 3.5em);
+    color:white;
+    text-shadow: 5px 5px 5px #000; /* horizontal-offset vertical-offset 'blur' colour */
+    -moz-text-shadow: 5px 5px 5px #000;
+    -webkit-text-shadow: 5px 5px 5px #000;
+  }
+  
+  .slide {
+    height: 250px;
+    width: 325px;
+  }
+  
+  .card-img-top:hover {
+    transition-duration: 100ms;
+    box-shadow: 5px 8px 8px #b6b4b4;
+  }
+  
+  .slideshow-container {
+    height: 300px;
+    width: 100%;
+    display: inline-block; 
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap; 
+  }
+  
+  video {
+    width: 75vw;
+    min-width: 350px;
+    max-width: 950px;
+    box-shadow: 5px 8px 8px #b6b4b4;
+  }
+  
