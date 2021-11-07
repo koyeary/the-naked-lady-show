@@ -6,35 +6,34 @@ const Home = () => {
     {
       title: 'Ep 1: The Network Episode',
       thumbnail:
-        'https://media.githubusercontent.com/media/koyeary/the-naked-lady-show/main/client/public/assets/Ep1_TheNetworkEpisode.png',
+        'https://live.staticflickr.com/65535/51662093048_f2562291a4_k.jpg',
       mp4: 'https://media.githubusercontent.com/media/koyeary/the-naked-lady-show/main/client/public/assets/TNLS_Ep1_Sound.mp4',
       ref: 1
     },
     {
       title: 'Ep 2: The French Episode',
       thumbnail:
-        'https://media.githubusercontent.com/media/koyeary/the-naked-lady-show/main/client/public/assets/Ep2_TheFrenchEpisode.png',
+        'https://live.staticflickr.com/65535/51662546199_63f7f61140_k.jpg',
       mp4: 'https://media.githubusercontent.com/media/koyeary/the-naked-lady-show/main/client/public/assets/TNLS_Ep2_Sound.mp4',
       ref: 2
     },
     {
       title: 'Ep 3: The High Art Episode',
       thumbnail:
-        'https://media.githubusercontent.com/media/koyeary/the-naked-lady-show/main/client/public/assets/Ep3_TheHighArtEpisode.png',
+        'https://live.staticflickr.com/65535/51661057542_06d8bb6edc_k.jpg',
       mp4: 'https://media.githubusercontent.com/media/koyeary/the-naked-lady-show/main/client/public/assets/TNLS_Ep3_Sound.mp4',
       ref: 3
     },
     {
       title: 'Ep 4: The Santa Hat Episode',
       thumbnail:
-        'https://media.githubusercontent.com/media/koyeary/the-naked-lady-show/main/client/public/assets/Ep4_TheSantaHatEpisode.png',
+        'https://live.staticflickr.com/65535/51661057477_69be193737_k.jpg',
       mp4: 'https://media.githubusercontent.com/media/koyeary/the-naked-lady-show/main/client/public/assets/TNLS_Ep4_Sound.mp4',
       ref: 4
     },
     {
       title: 'Ep 5: The Great Baking Show Episode',
-      thumbnail:
-        'https://media.githubusercontent.com/media/koyeary/the-naked-lady-show/main/client/public/assets/Ep5_TheGreatBakingShowEpisode.png',
+      thumbnail: 'https://live.staticflickr.com/65535/51662694680_cc988e2b63_k.jpg"',
       mp4: 'https://media.githubusercontent.com/media/koyeary/the-naked-lady-show/main/client/public/assets/TNLS_Ep5_Sound.mp4',
       ref: 5
     }
