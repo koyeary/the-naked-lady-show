@@ -5,8 +5,7 @@ html, body {
   
   .main-navbar {
     background-color: #d4245c; 
-    position: sticky;
-    top: 0;
+    width: 100%;
   }
   
   .brand {
