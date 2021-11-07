@@ -38,6 +38,10 @@ html, body {
     white-space: nowrap; 
   }
   
+  .slideshow-container::-webkit-scrollbar {
+    display: none
+  }
+
   video {
     width: 75vw;
     min-width: 350px;

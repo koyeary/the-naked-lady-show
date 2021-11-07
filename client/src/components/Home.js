@@ -75,7 +75,7 @@ const Home = () => {
   };
 
   return (
-    <Container fluid className='pb-5 mb-5'>
+    <Container fluid className='pb-5 my-5'>
       <Fragment>
         <Row className='justify-content-center mx-auto px-3'>
           {!play ? <LoadPlayer /> : <Player />}
@@ -83,7 +83,7 @@ const Home = () => {
       </Fragment>
       <Fragment>
         <Col className='px-5 mx-2'>
-          <Row className='slideshow-container d-flex flex-nowrap mx-auto'>
+          <Row className='slideshow-container d-flex flex-nowrap mx-auto my-5'>
             {title_cards.map((card) => (
               <Col>
                 <Card key={card.ref} className='slide border-0 btn'>
